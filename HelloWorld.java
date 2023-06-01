@@ -1,5 +1,5 @@
 class HelloWorld{
 	public static void main(String a[]){
-		System.out.println("Hello World auto 9");
+		System.out.println("Hello World auto 10");
 	}
 }
